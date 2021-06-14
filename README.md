@@ -1,2 +1,3 @@
-# predictive analytics in python
- jupyter notebooks of work with pandas and numpy to predict (ratings) using python
+### Predictive Analytics in Python
+
+Repository of relevant notebooks for projects found at [zenjen-devs,github.io](https://zenjen-devs.github.io), Jen's portfolio website.
